@@ -1,7 +1,7 @@
 'use strict'
 
-var fs = require('fs');
-var Promise = require('promise');
+const fs = require('fs');
+const Promise = require('promise');
 
 module.exports.getPromiseASync = function(filename) {
   return new Promise(function(resolve, reject) {

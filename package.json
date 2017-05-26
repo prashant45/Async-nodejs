@@ -1,0 +1,19 @@
+{
+  "name": "asyncCallsJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant45/asyncCallJs-.git"
+  },
+  "author": "Prashant Chaudhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant45/asyncCallJs-/issues"
+  },
+  "homepage": "https://github.com/prashant45/asyncCallJs-#readme"
+}

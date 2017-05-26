@@ -2,11 +2,10 @@
 
 const temp = require('./asyncFileCall');
 
-let rawData;
 let filename = './dummy.txt';
 console.log('Before reading Asyncronously');
 
-let getData = temp.getPromiseASync(filename);
+const getData = temp.getPromiseASync(filename);
 
 getData.then((data) => {
   console.log(data); // Success!
